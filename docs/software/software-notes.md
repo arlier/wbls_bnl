@@ -20,3 +20,15 @@ The simulation framework is ”rat-pac”2 , which is is intended to be a framew
 that combines both Monte Carlo simulation of the Braidwood detector with
 event-based analysis tasks, like reconstruction.
 
+
+the MC data is saved in a tree `PMTnpe10m.root` which contains a vector of npe of each PMT and each event.
+
+How to access the dun0001 by ssh tunneling?
+in the file `~/.ssh/config` add
+``` bash
+Host  dune0001
+User          zhaor
+HostName      dune0001
+ProxyCommand  ssh -i ~/mykey -XY zhaor@rssh02.rhic.bnl.gov nc %h %p 2> /dev/null
+
+```
