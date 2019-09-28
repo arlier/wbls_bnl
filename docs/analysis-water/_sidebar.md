@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
 
 * [BACK](/introduction.md)
-* [fitting](fitting.md)
+* [fitting](analysis-water/fitting.md)
 
