@@ -1,4 +1,6 @@
 # Hodoscope trig with bottom H6 fired
+If we require the hodoscope H6 be fired in the hodoscope trig, most of the selected events are
+expected to be through-going muons. The average photon number is about 12 for PMT0. 
 
 | pmt | 0  | 1 | 2  | 3  |4|5|6|7|
 |-----|----|----|---|---|---|---|---|---|

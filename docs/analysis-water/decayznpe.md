@@ -8,10 +8,12 @@ attenuation length `a=10m`:
 <p align="center">
 <img src="califigs/npeall/znpeall10m.png" width="900" />
 </p>
-attenuation length `a=20m`:
+
+attenuation length `a=20m` :
 <p align="center">
 <img src="califigs/npeall/znpeall20m.png" width="900" />
 </p>
+
 attenuation length `a=40m`:
 <p align="center">
 <img src="califigs/npeall/znpeall40m.png" width="900" />
@@ -25,10 +27,12 @@ attenuation length `a=10m`:
 <p align="center">
 <img src="califigs/npeall/rpnpeall10m.png" width="900" />
 </p>
+
 attenuation length `a=20m`:
 <p align="center">
 <img src="califigs/npeall/rpnpeall20m.png" width="900" />
 </p>
+
 attenuation length `a=40m`:
 <p align="center">
 <img src="califigs/npeall/rpnpeall40m.png" width="900" />
@@ -41,4 +45,3 @@ back up-> from different trig types:
     </embed>
 </object>
 
-## $r\prime $ and total npe:
