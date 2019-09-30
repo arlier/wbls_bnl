@@ -65,7 +65,3 @@ quantum yield of WbLS:
 <img src="figures/qy.png" width="900" />
 </p>
 
-single p.e charge spectrum of PMTs.
-<p align="center">
-<img src="figures/pmtcharge.svg" width="900" />
-</p>
