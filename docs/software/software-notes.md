@@ -32,3 +32,40 @@ HostName      dune0001
 ProxyCommand  ssh -i ~/mykey -XY zhaor@rssh02.rhic.bnl.gov nc %h %p 2> /dev/null
 
 ```
+
+
+## input parameters of MC simulation
+refractive index of water and WbLS:
+<p align="center">
+<img src="figures/rindex_water.png" width="900" />
+</p>
+
+absorption length of water:
+<p align="center">
+<img src="figures/absorption-length_water.png" width="900" />
+</p>
+
+rayleigh scattering length of WbLS:
+<p align="center">
+<img src="figures/rslength.png" width="900" />
+</p>
+
+attenuation length of WbLS:
+<p align="center">
+<img src="figures/attlength.png" width="900" />
+</p>
+
+scintillation spectrum of WbLS:
+<p align="center">
+<img src="figures/scint.png" width="900" />
+</p>
+
+quantum yield of WbLS:
+<p align="center">
+<img src="figures/qy.png" width="900" />
+</p>
+
+single p.e charge spectrum of PMTs.
+<p align="center">
+<img src="figures/pmtcharge.svg" width="900" />
+</p>
