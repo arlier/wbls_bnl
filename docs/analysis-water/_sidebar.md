@@ -5,4 +5,5 @@
 * [more bins fitting](analysis-water/morebin.md)
 * [HT && H6 fitting](analysis-water/hodoH6.md)
 * [HT && H5 fitting](analysis-water/hodoH5.md)
+* [binning effect](analysis-water/binning.md)
 
