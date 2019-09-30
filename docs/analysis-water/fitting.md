@@ -15,29 +15,29 @@ if do not select data, just use the Hodoscope trigger events and corresponding M
 
 | pmt | 0  | 1 | 2  | 3  |4|5|6|7|
 |-----|----|----|---|---|---|---|---|---|
-| cf  | 1.08 | 0.92 |.46   |.78   |.74| 1.75|1.06|0.86|
+| cf[50bins]  | 1.08 | 0.92 |.46   |.78   |.74| 1.75|1.06|0.86|
 
 <!-----  In the first several bins, the data have more counts than MC.  ---->
 <p align="center">
-<img src="califigs/PMTnperes0PMTnpedata190929-01.svg" width="900" />
-<img src="califigs/PMTnperes1PMTnpedata190929-01.svg" width="900" />
-<img src="califigs/PMTnperes2PMTnpedata190929-01.svg" width="900" />
-<img src="califigs/PMTnperes3PMTnpedata190929-01.svg" width="900" />
-<img src="califigs/PMTnperes4PMTnpedata190929-01.svg" width="900" />
-<img src="califigs/PMTnperes5PMTnpedata190929-01.svg" width="900" />
-<img src="califigs/PMTnperes6PMTnpedata190929-01.svg" width="900" />
-<img src="califigs/PMTnperes7PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/PMTnperes0PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/PMTnperes1PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/PMTnperes2PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/PMTnperes3PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/PMTnperes4PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/PMTnperes5PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/PMTnperes6PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/PMTnperes7PMTnpedata190929-01.svg" width="900" />
 </p>
 
 ## about  the problem of chi^2
 when I scan the parameter "effective factor" of each PMT, the $\chi^2$ value is not as smooth as expected.
 <p align="center">
-<img src="califigs/chi2_0PMTnpedata190929-01.png" width="900" />
-<img src="califigs/chi2_1PMTnpedata190929-01.png" width="900" />
-<img src="califigs/chi2_2PMTnpedata190929-01.png" width="900" />
-<img src="califigs/chi2_3PMTnpedata190929-01.png" width="900" />
-<img src="califigs/chi2_4PMTnpedata190929-01.png" width="900" />
-<img src="califigs/chi2_5PMTnpedata190929-01.png" width="900" />
-<img src="califigs/chi2_6PMTnpedata190929-01.png" width="900" />
-<img src="califigs/chi2_7PMTnpedata190929-01.png" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_0PMTnpedata190929-01.png" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_1PMTnpedata190929-01.png" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_2PMTnpedata190929-01.png" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_3PMTnpedata190929-01.png" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_4PMTnpedata190929-01.png" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_5PMTnpedata190929-01.png" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_6PMTnpedata190929-01.png" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_7PMTnpedata190929-01.png" width="900" />
 </p>
