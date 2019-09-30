@@ -32,12 +32,12 @@ if do not select data, just use the Hodoscope trigger events and corresponding M
 ## about  the problem of chi^2
 when I scan the parameter "effective factor" of each PMT, the $\chi^2$ value is not as smooth as expected.
 <p align="center">
-<img src="califigs/pmt190929-01fit/chi2_0PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01fit/chi2_1PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01fit/chi2_2PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01fit/chi2_3PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01fit/chi2_4PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01fit/chi2_5PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01fit/chi2_6PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01fit/chi2_7PMTnpedata190929-01.png" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_0PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_1PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_2PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_3PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_4PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_5PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_6PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01fit/chi2_7PMTnpedata190929-01.svg" width="900" />
 </p>

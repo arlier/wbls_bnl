@@ -21,14 +21,14 @@ change from 50bins to 100 bins:
 <img src="califigs/pmt190929-01bin30/PMTnperes7PMTnpedata190929-01.svg" width="900" />
 </p>
 <p align="center">
-<img src="califigs/pmt190929-01bin30/chi2_0PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin30/chi2_1PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin30/chi2_2PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin30/chi2_3PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin30/chi2_4PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin30/chi2_5PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin30/chi2_6PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin30/chi2_7PMTnpedata190929-01.png" width="900" />
+<img src="califigs/pmt190929-01bin30/chi2_0PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin30/chi2_1PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin30/chi2_2PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin30/chi2_3PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin30/chi2_4PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin30/chi2_5PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin30/chi2_6PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin30/chi2_7PMTnpedata190929-01.svg" width="900" />
 </p>
 
 ## bin number=50
@@ -44,14 +44,14 @@ change from 50bins to 100 bins:
 <img src="califigs/pmt190929-01bin50/PMTnperes7PMTnpedata190929-01.svg" width="900" />
 </p>
 <p align="center">
-<img src="califigs/pmt190929-01bin50/chi2_0PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin50/chi2_1PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin50/chi2_2PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin50/chi2_3PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin50/chi2_4PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin50/chi2_5PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin50/chi2_6PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin50/chi2_7PMTnpedata190929-01.png" width="900" />
+<img src="califigs/pmt190929-01bin50/chi2_0PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin50/chi2_1PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin50/chi2_2PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin50/chi2_3PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin50/chi2_4PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin50/chi2_5PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin50/chi2_6PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin50/chi2_7PMTnpedata190929-01.svg" width="900" />
 </p>
 
 
@@ -67,14 +67,14 @@ change from 50bins to 100 bins:
 <img src="califigs/pmt190929-01bin100/PMTnperes7PMTnpedata190929-01.svg" width="900" />
 </p>
 <p align="center">
-<img src="califigs/pmt190929-01bin100/chi2_0PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin100/chi2_1PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin100/chi2_2PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin100/chi2_3PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin100/chi2_4PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin100/chi2_5PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin100/chi2_6PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin100/chi2_7PMTnpedata190929-01.png" width="900" />
+<img src="califigs/pmt190929-01bin100/chi2_0PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin100/chi2_1PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin100/chi2_2PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin100/chi2_3PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin100/chi2_4PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin100/chi2_5PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin100/chi2_6PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin100/chi2_7PMTnpedata190929-01.svg" width="900" />
 </p>
 
 ## bin number=200
@@ -89,12 +89,12 @@ change from 50bins to 100 bins:
 <img src="califigs/pmt190929-01bin200/PMTnperes7PMTnpedata190929-01.svg" width="900" />
 </p>
 <p align="center">
-<img src="califigs/pmt190929-01bin200/chi2_0PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin200/chi2_1PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin200/chi2_2PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin200/chi2_3PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin200/chi2_4PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin200/chi2_5PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin200/chi2_6PMTnpedata190929-01.png" width="900" />
-<img src="califigs/pmt190929-01bin200/chi2_7PMTnpedata190929-01.png" width="900" />
+<img src="califigs/pmt190929-01bin200/chi2_0PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin200/chi2_1PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin200/chi2_2PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin200/chi2_3PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin200/chi2_4PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin200/chi2_5PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin200/chi2_6PMTnpedata190929-01.svg" width="900" />
+<img src="califigs/pmt190929-01bin200/chi2_7PMTnpedata190929-01.svg" width="900" />
 </p>
