@@ -21,5 +21,5 @@ $\chi^2$ distribution of PMTs0 with different bin number.
 
 <p align="center">
 <img src="califigs/s2chi2/s2chi2allbins.svg" width="900" />
-substract the minimum of $\chi^2$ and zoom in
+subtract the minimum of $\chi^2$ and zoom in
 </p>
