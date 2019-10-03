@@ -6,4 +6,5 @@
 * [HT && H6 fitting](analysis-water/hodoH6.md)
 * [HT && H5 fitting](analysis-water/hodoH5.md)
 * [binning effect](analysis-water/binning.md)
+* [chi2-of-s2 ](analysis-water/chi2s2.md)
 * [decay z& npe](analysis-water/decayznpe.md)
