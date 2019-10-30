@@ -1,4 +1,6 @@
 # check the chi2 distribution of PMTS2 with different calibration factors
+For HT and H6:
+******
 use histogram with 50 bins,draw the NPE distribution of different calibration factors as illustrated in the below figure:
 <p align="center">
 <img src="califigs/s2chi2/chi2_s2_HTandH6.png" width="900" />
