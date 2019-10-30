@@ -26,15 +26,8 @@
 <p align="center">
 <img src="califigs/pmtcali1029/PMTnperes2PMTnpefilelist20.png" width="900" />
 </p>
-<p align="center">
-### PMTs0
-<p align="center">
-<img src="califigs/pmtcali1029/PMTnperes0PMTnpefilelist20.png" width="900" />
 </p>
 <p align="center">
-<img src="califigs/pmtcali1029/chi2_0PMTnpefilelist20.png" width="900" />
-</p>
-
 <img src="califigs/pmtcali1029/chi2_2PMTnpefilelist20.png" width="900" />
 </p>
 

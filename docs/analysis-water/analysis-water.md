@@ -1,4 +1,5 @@
 # data analysis of water phase
+the valid data: from 20180101 to 20180612, that is run `19885` to `28655`
 
 ## strategy of calibration
 <p align="center">
