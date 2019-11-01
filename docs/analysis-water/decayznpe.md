@@ -1,6 +1,8 @@
 # decay posiztion z and total  npe
 
-## z and total npe:
+## the decay z position and total NPE of all PMTs
+
+
 In MC, draw the decay position z v.s total number of photons of all PMTsr,for different water attenuation length: 
 
 ************************
