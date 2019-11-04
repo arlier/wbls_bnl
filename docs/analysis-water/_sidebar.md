@@ -15,3 +15,4 @@
 * [ fitting update wuwoo ](analysis-water/update1103_wuwoo.md)
 * [ fitting update wuwo ](analysis-water/update1103_wuwo.md)
 * [ fitting mc fake data  ](analysis-water/update1103_mcfakedata.md)
+* [ check chi^2 of PMTs0  ](analysis-water/checks0.md)
