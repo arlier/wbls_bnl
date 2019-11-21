@@ -20,3 +20,5 @@
 * [ overbinth30  ](analysis-water/overbinth30.md)
 * [ overbinth50  ](analysis-water/overbinth50.md)
 * [check PMTs2](analysis-water/checkPMTs2.md)
+* [fit H5trig](analysis-water/H5trig.md)
+* [fit H6trig](analysis-water/H6trig.md)
