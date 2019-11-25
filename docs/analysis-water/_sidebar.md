@@ -22,3 +22,6 @@
 * [check PMTs2](analysis-water/checkPMTs2.md)
 * [fit H5trig](analysis-water/H5trig.md)
 * [fit H6trig](analysis-water/H6trig.md)
+* [NPE of  H6 and H5](analysis-water/h5andh6.md)
+* [cf and  H6trig](analysis-water/cfh6.md)
+* [cf and  H5trig](analysis-water/cfh5.md)
