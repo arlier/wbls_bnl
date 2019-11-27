@@ -25,3 +25,4 @@
 * [NPE of  H6 and H5](analysis-water/h5andh6.md)
 * [cf and  H6trig](analysis-water/cfh6.md)
 * [cf and  H5trig](analysis-water/cfh5.md)
+* [average waveform](analysis-water/avewave.md)
