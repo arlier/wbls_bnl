@@ -11,6 +11,10 @@ I use 5 different threshold for the last bin, 10,20,30,40,50
 | 50  | 1.034 | 0.82 |.39   |.7   |1.377| 1.373|1.144|0.895|
 
 
+<p align="center">
+<img src="uncertaintyfig/allcf.png" width="900" />
+histogram of all calibration factors.
+</p>
 ## overbin threshold =10
 <p align="center">
 <img src="uncertaintyfig/npe_file1_oth1_1bin2_fitbin1.png" width="900" />
