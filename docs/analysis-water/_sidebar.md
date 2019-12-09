@@ -32,3 +32,6 @@
 * [uncertainty-Hodo trig combination](analysis-water/uhodotrig.md)
 * [uncertainty-attenuation length](analysis-water/ual.md)
 * [uncertainty- dataselect](analysis-water/udataset.md)
+* [uncertainty of cf](analysis-water/allcf.md)
+* [single pe spectrum ](analysis-water/specomp.md)
+* [path length of  photons ](analysis-water/pol.md)
