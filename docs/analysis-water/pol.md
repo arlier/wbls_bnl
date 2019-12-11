@@ -29,7 +29,7 @@ the point of chrenkov light generated.
 </p>
 
 
-## Hodo trig no bottom trig selection
+## Hodo trig  (!H5&&!H6)
 <p align="center">
 <img src="uncertaintyfig/Hodoonlyol.png" width="900" />
 photon path length
