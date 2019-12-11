@@ -4,3 +4,7 @@
 <img src="uncertaintyfig/speled.png" width="900" />
 single p.e. spectrum of different charge calculation
 </p>
+<p align="center">
+<img src="uncertaintyfig/spefit.png" width="900" />
+single p.e. spectrum of different charge calculation
+</p>
