@@ -15,14 +15,14 @@ HodoTrig||H6||H5 ; HodoTrig&&H6&&!H5 ;HodoTrig&&H5&&~H6
 Npe fitting and chi2 distribution of PMTs,aw=20m,all-Hodo trigger,overbinth=40,no 1st bin,no last bin.
 </p>
 
-##  original Hodoscope trig 
+##  H6 Hodoscope trig 
 <p align="center">
 <img src="uncertaintyfig/npe_file2_oth4_1bin1_fitbin1.png" width="900" />
 <img src="uncertaintyfig/chi2_file2_oth4_1bin1_fitbin1.png" width="900" />
 Npe fitting and chi2 distribution of PMTs,aw=20m,HodoH6 trigger,overbinth=40,no 1st bin,no last bin.
 </p>
 
-##  original Hodoscope trig 
+##  H5 Hodoscope trig 
 <p align="center">
 <img src="uncertaintyfig/npe_file3_oth4_1bin1_fitbin1.png" width="900" />
 <img src="uncertaintyfig/chi2_file3_oth4_1bin1_fitbin1.png" width="900" />
