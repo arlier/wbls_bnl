@@ -18,3 +18,6 @@
 <img src="uncertaintyfig/angleeff.png" width="900" />
 the relative attenuation for differemt incident angles
 </p>
+
+choose 400nm for the following study,
+
