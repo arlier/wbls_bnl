@@ -14,6 +14,15 @@ the 9 trigger combinations
 |1011|1|0|1|1       	   	|    |7948	|8.08		|33207		|6.85		|
 |1111|1|1|1|1       	   	|    |8550	|8.7		|33756		|6.96		|
 
+## the 3d plot
+<p align="center">
+<img src="uncertaintyfig/3dt.png" width="900" />
+</p>
+## attenuation v.s. wavelength
+<p align="center">
+<img src="uncertaintyfig/absorption-length_water.png" width="900" />
+</p>
+
 ## PMTs0
 <p align="center">
 <img src="uncertaintyfig/PMTia_allcombination0.png" width="900" />
@@ -54,3 +63,37 @@ the 9 trigger combinations
 <img src="uncertaintyfig/PMTia_allcombination7.png" width="900" />
 </p>
 
+
+## the attenuation
+## PMTs0
+<p align="center">
+<img src="uncertaintyfig/PMTia_allatt0.png" width="900" />
+</p>
+## PMTs1
+<p align="center">
+<img src="uncertaintyfig/PMTia_allatt1.png" width="900" />
+</p>
+## PMTs2
+<p align="center">
+<img src="uncertaintyfig/PMTia_allatt2.png" width="900" />
+</p>
+## PMTs3
+<p align="center">
+<img src="uncertaintyfig/PMTia_allatt3.png" width="900" />
+</p>
+## PMTs4
+<p align="center">
+<img src="uncertaintyfig/PMTia_allatt4.png" width="900" />
+</p>
+## PMTs5
+<p align="center">
+<img src="uncertaintyfig/PMTia_allatt5.png" width="900" />
+</p>
+## PMTs6
+<p align="center">
+<img src="uncertaintyfig/PMTia_allatt6.png" width="900" />
+</p>
+## PMTs7
+<p align="center">
+<img src="uncertaintyfig/PMTia_allatt7.png" width="900" />
+</p>
