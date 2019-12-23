@@ -18,6 +18,15 @@ the 9 trigger combinations
 <p align="center">
 <img src="uncertaintyfig/3dt.png" width="900" />
 </p>
+<p align="center">
+<img src="uncertaintyfig/geoxy.png" width="900" />
+</p>
+<p align="center">
+<img src="uncertaintyfig/geoxz.png" width="900" />
+</p>
+<p align="center">
+<img src="uncertaintyfig/geoyz.png" width="900" />
+</p>
 ## attenuation v.s. wavelength
 <p align="center">
 <img src="uncertaintyfig/absorption-length_water.png" width="900" />
