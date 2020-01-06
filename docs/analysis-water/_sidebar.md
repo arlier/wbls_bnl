@@ -39,3 +39,4 @@
 * [incident angle ](analysis-water/angleeff.md)
 * [trigger combination](analysis-water/trigger_combination.md)
 * [water attenuation](analysis-water/wateratt.md)
+* [water attenuation trigs](analysis-water/wateratttrigs.md)
