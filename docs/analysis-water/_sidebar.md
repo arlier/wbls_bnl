@@ -40,3 +40,6 @@
 * [trigger combination](analysis-water/trigger_combination.md)
 * [water attenuation](analysis-water/wateratt.md)
 * [water attenuation trigs](analysis-water/wateratttrigs.md)
+* [mc200m-npe](analysis-water/npe200m.md)
+* [att-acrylic-cookie](analysis-water/pmtattao.md)
+* [att-iaol](analysis-water/pmtiaol.md)
