@@ -1,4 +1,28 @@
 
+
+## npe=50 PMTs0
+
+<p align="center">
+<img src="uncertaintyfig/npeatt200limit50.png" width="900" />
+</p>
+
+## npe=30 PMTs2 
+
+<p align="center">
+<img src="uncertaintyfig/npeatt200limit30s2.png" width="900" />
+</p>
+
+## npe=30 PMTs1
+
+<p align="center">
+<img src="uncertaintyfig/npeatt200limit30s1.png" width="900" />
+</p>
+
+## npe=30  PMTS0
+
+<p align="center">
+<img src="uncertaintyfig/npeatt200limit30.png" width="900" />
+</p>
 ## stopz of muons
 
 <p align="center">
