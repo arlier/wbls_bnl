@@ -1,5 +1,17 @@
 
 
+## npe of hodo+h5, hodo+h5, hodo nh4nh5
+
+<p align="center">
+<img src="uncertaintyfig/npeh4h5.png" width="900" />
+</p>
+
+## npe of tgrough-going muons and stop muons
+
+<p align="center">
+<img src="uncertaintyfig/muonnpes0_4.png" width="900" />
+</p>
+
 ## npe=50 PMTs0
 
 <p align="center">

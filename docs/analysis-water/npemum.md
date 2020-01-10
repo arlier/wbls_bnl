@@ -11,3 +11,7 @@ mumentum and npe of PMTs0
 <img src="uncertaintyfig/muonstopznpe.png" width="900" />
 z=-1500 for through-going muons, PMTs0
 </p>
+<p align="center">
+<img src="uncertaintyfig/muonstopznpelego.png" width="900" />
+z=-1500 for through-going muons, PMTs0
+</p>
