@@ -1,6 +1,10 @@
 ## npe and mumentum of muons 
 
 <p align="center">
+<img src="uncertaintyfig/npeofPMTs1stop.png" width="900" />
+</p>
+
+<p align="center">
 <img src="uncertaintyfig/mumumnpe.png" width="900" />
 mumentum and npe of PMTs0
 </p>
